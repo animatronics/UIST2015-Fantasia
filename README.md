@@ -1,5 +1,5 @@
 # UIST2015-Fantasia
-##introduction
+##Introduction
 We have developed the system which controls the dancing puppet according to the motion of the "magic baton". In the "magic baton", both a USB camera and an acceleration sensor is embedded. By wielding the baton, the user can work the puppet.
 
 ##About programs that are run to realize this system
